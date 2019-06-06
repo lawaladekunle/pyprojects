@@ -8,3 +8,7 @@ Making a conflict on Master
 
 Check us out at http://pyprojects.com.
 
+Next code stack will include some updates to the functions file.
+
+
+
