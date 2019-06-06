@@ -6,5 +6,5 @@ You can download the project and use as needed
 
 Making a conflict on Master
 
-Check us out at http://pyprojects.com
+Check us out at http://pyprojects.com.
 
