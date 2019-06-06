@@ -13,9 +13,3 @@ This project is a demo python project
 
 You can download the project and use as needed
 
-<<<<<<< HEAD
-Just another line of code
-=======
-Making a conflict on Master
->>>>>>> conflicts
-
