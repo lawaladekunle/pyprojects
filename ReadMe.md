@@ -4,6 +4,6 @@ This project is a demo python project
 
 You can download the project and use as needed
 
-Reach us at www.pyprojects.com
+Reach us at http://www.pyprojects.com
 
 
